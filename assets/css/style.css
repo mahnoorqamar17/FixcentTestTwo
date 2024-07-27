@@ -820,20 +820,20 @@ s
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border-bottom: 3px solid #076bae;
 }
 
 .services .service-box.blue .icon {
-  color: #2db6fa;
+  color: #076bae;
   background: #dbf3fe;
 }
 
 .services .service-box.blue .read-more {
-  color: #2db6fa;
+  color: #076bae;
 }
 
 .services .service-box.blue:hover {
-  background: #2db6fa;
+  background: #076bae;
 }
 
 .services .service-box.orange {
@@ -854,20 +854,20 @@ s
 }
 
 .services .service-box.green {
-  border-bottom: 3px solid #08da4e;
+  border-bottom: 3px solid #418f43;
 }
 
 .services .service-box.green .icon {
-  color: #08da4e;
+  color: #418f43;
   background: #cffddf;
 }
 
 .services .service-box.green .read-more {
-  color: #08da4e;
+  color: #418f43;
 }
 
 .services .service-box.green:hover {
-  background: #08da4e;
+  background: #418f43;
 }
 
 .services .service-box.red {
@@ -1360,11 +1360,11 @@ s
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #4154f1;
+  border: 1px solid #3d8c3f;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #4154f1;
+  background-color: #3d8c3f;
 }
 
 .testimonials .swiper-slide {
@@ -1507,12 +1507,12 @@ s
   width: 12px;
   height: 12px;
   background-color: #fff;
-  opacity: 1;
-  border: 1px solid #4154f1;
+  opacity: 100;
+  border: 1px solid #3d8c3f;
 }
 
 .clients .clients-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #4154f1;
+  background-color: #3d8c3f;
 }
 
 /*--------------------------------------------------------------
@@ -1627,7 +1627,7 @@ s
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #3d8c3f;
   text-align: center;
   padding: 15px;
   margin-bottom: 24px;
@@ -1649,7 +1649,7 @@ s
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #3d8c3f;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -1665,7 +1665,7 @@ s
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #4154f1;
+  border-color: #3d8c3f;
 }
 
 .contact .php-email-form input {
@@ -1677,7 +1677,7 @@ s
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #4154f1;
+  background: #3d8c3f;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -2429,7 +2429,7 @@ s
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: linear-gradient(rgba(2, 3, 5, 0.4), rgba(53, 53, 53, 0.4));
+  background: linear-gradient(rgba(46, 46, 46, 0.4), rgba(190, 190, 190, 0.4));
   background-size: cover;
 }
 
