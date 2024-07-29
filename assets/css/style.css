@@ -2408,7 +2408,7 @@ s
 
 .carousel-header #carouselId .carousel-inner .carousel-item {
   position: relative;
-  min-height: 80vh; /* Adjust this value to reduce the height */
+  min-height: 70vh; /* Adjust this value to reduce the height */
 }
 
 .carousel-header #carouselId .carousel-inner .carousel-item img {
